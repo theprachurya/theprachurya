@@ -21,4 +21,5 @@ I am a student, currently in my 2nd year of studying B.Tech.
 
 Currently learning how to code in Java and C, as well as shell scripting on Linux. 
 
-You can contact me at prachurya119
+You can contact me at prachurya119@gmail.com
+
