@@ -1,10 +1,10 @@
 <h1 align="center">hi, Prachurya here.</h1>
-<h3 align="center">Just a developer. Still discovering my niche.</h3>
 
+<hr />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theprachurya&label=Profile%20views&color=0e75b6&style=flat" alt="theprachurya" /> </p>
-
-- 🌱 I’m currently learning **rust, HTML, CSS, JS, mongoDB, python, and shell scripting.**
-
+- I'm a Computer Science undergrad, studying at SRMIST. Currently in pre-final year.
+- 🌱 I’m currently learning **Kotlin, HTML, CSS, JS, mongoDB, python, and bash.**
+- Avid learner, learning new tech stacks
 - 📫 How to reach me **prachurya119@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
