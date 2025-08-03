@@ -1,9 +1,9 @@
 <h1 align="center">hi, Prachurya here.</h1>
 
-<hr />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theprachurya&label=Profile%20views&color=0e75b6&style=flat" alt="theprachurya" /> </p>
-- I'm a Computer Science undergrad, studying at SRMIST. Currently in pre-final year.
-- 🌱 I’m currently learning **Kotlin, HTML, CSS, JS, mongoDB, python, and bash.**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=theprachurya&label=Profile%20views&color=0e75b6&style=flat" alt="theprachurya" />
+
+- Comp-sci undergrad at SRMIST, prefinal year.
+- Learning **Kotlin, HTML, CSS, JS, mongoDB, python, and bash.**
 - Avid learner, learning new tech stacks
 - 📫 How to reach me **prachurya119@gmail.com**
 
