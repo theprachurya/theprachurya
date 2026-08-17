@@ -102,15 +102,20 @@ A train-ticket booking concept that addresses waitlisted tickets by recommending
 ## GitHub activity
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=theprachurya&show_icons=true&locale=en" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theprachurya&theme=default" alt="GitHub profile details" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theprachurya&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theprachurya&theme=default" alt="Repositories per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theprachurya&theme=default" alt="Most commit language" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theprachurya" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theprachurya&theme=default" alt="GitHub statistics" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com/?user=theprachurya" alt="GitHub streak" />
 </p>
 
 ## Current direction
