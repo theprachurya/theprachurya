@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Computer Science & Engineering (AI & ML) undergraduate at SRMIST, building full-stack applications, AI-assisted tools, and backend systems.
+  Computer Science & Engineering (AI & ML) undergraduate at SRMIST, building full-stack applications, AI-assisted tools, and practical software systems.
 </p>
 
 <p align="center">
@@ -18,10 +18,10 @@
 ## What I work on
 
 - Full-stack web applications with Next.js, React, TypeScript, JavaScript, Flask, and REST-style APIs.
-- AI-powered applications using Google Gemini, local vector retrieval, RAG workflows, document processing, and LLM API integration.
+- AI-powered applications using Google Gemini, RAG workflows, embeddings, document processing, and LLM API integration.
 - Data-backed applications using PostgreSQL/Supabase and SQLite, including authentication, storage, realtime features, and row-level security.
 - Local-first software that keeps application data and retrieval on-device instead of requiring a cloud database.
-- Backend and systems work involving Linux, Python, Bash, Node.js, HTTP services, authentication, logging middleware, and containerization with Docker/Podman.
+- Software development across Linux, Python, Bash, JavaScript/TypeScript, C/C++, Java, and Kotlin.
 
 ## Selected work
 
@@ -43,17 +43,12 @@ A restaurant ordering and management application with separate customer and owne
 ### AI Study Planner
 **Python · Flask · SQLite · Gemini · JavaScript**
 
-A full-stack study-planning application that generates personalized learning guides and schedules from subjects, dates, study hours, commitments, difficulty information, and optional assessment marks. Includes calendar-based schedule views, persistence in SQLite, resilient JSON handling, and fallback schedule generation when AI output is unavailable or malformed. [Repository](https://github.com/theprachurya/AI-Study-Planner)
-
-### Campus Notifications Microservice
-**Python · Node.js · Next.js · React · Material UI · HTTP APIs**
-
-A notification-prioritization system built around a Priority Inbox. Notifications are ranked by type weight and recency, with a fixed-size min-heap maintaining the top N items in O(log n) time per incoming notification. The repository also contains a Node.js backend, Next.js frontend, authentication-token tooling, and structured logging middleware. [Repository](https://github.com/theprachurya/RA2311026010855)
+A full-stack study-planning application that generates personalized learning guides and schedules from subjects, dates, study hours, commitments, difficulty information, and optional assessment marks. Includes calendar-based schedule views, SQLite persistence, resilient JSON handling, and fallback schedule generation when AI output is unavailable or malformed. [Repository](https://github.com/theprachurya/AI-Study-Planner)
 
 ### Ambient Study Companion
 **Python · Flask · SQLite · Docker/Podman · JavaScript**
 
-A desktop/browser-oriented productivity companion with ambient soundscapes, Pomodoro timers, reminders, wellness logging, notifications, profile switching, CSV exports, and accessibility features including keyboard navigation, text-to-speech, font controls, ARIA labeling, and screen-reader support. [Repository](https://github.com/theprachurya/Ambient-Study-Companion)
+A productivity companion with ambient soundscapes, Pomodoro timers, reminders, wellness logging, notifications, profile switching, CSV exports, and accessibility features including keyboard navigation, text-to-speech, font controls, ARIA labeling, and screen-reader support. [Repository](https://github.com/theprachurya/Ambient-Study-Companion)
 
 ### Web Novel Tracker
 **Vite · JavaScript · Supabase**
