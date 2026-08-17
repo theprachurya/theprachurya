@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/prachurya-subhasmita-84a681244">LinkedIn</a> ·
-  <a href="mailto:gaveyeprachurya@gmail.com">Email</a> ·
+  <a href="mailto:prachurya119@gmail.com">Email</a> ·
   <a href="https://github.com/theprachurya">GitHub</a>
 </p>
 
