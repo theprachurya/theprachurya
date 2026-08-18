@@ -26,9 +26,9 @@
 ## Selected work
 
 ### Study Quest
-**Next.js · TypeScript · Gemini · RAG · Local-first storage · Tailwind CSS**
+**Next.js 16 · TypeScript · Gemini · RAG · Local-first storage · Tailwind CSS · NextAuth**
 
-A local-first AI study companion that combines grounded study-plan generation, document-based RAG chat, dynamic mind maps, Pomodoro productivity tracking, journaling, streaks, and CSV export. Course materials are stored locally and indexed for in-process vector retrieval, with optional live web-search augmentation. [Repository](https://github.com/theprachurya/study-quest)
+A 100% local-first AI study planner and productivity suite. It generates grounded study schedules with Gemini, provides an AI tutor with optional live web-search augmentation through Tavily, creates interactive Markmap mind maps, and includes Pomodoro focus sessions, ambient sound, a 28-day consistency heatmap, wellness scoring, study journaling, and CSV export. Application data is persisted in a local atomic document store rather than a cloud database. [Repository](https://github.com/theprachurya/study-quest)
 
 ### PageTurn
 **Next.js 16 · React · TypeScript · Supabase · PostgreSQL · epub.js · PWA · IndexedDB**
@@ -95,9 +95,9 @@ A train-ticket booking concept that addresses waitlisted tickets by recommending
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40" />
 </p>
 
-**AI / Data:** Google Gemini, LLM API integration, RAG, embeddings, local vector search, document parsing, LangChain, Recharts.
+**AI / Data:** Google Gemini, LLM API integration, RAG, embeddings, local vector search, document parsing, LangChain, Markmap, Recharts.
 
-**Platforms / Tools:** Supabase, Vercel, Git, Docker, Podman, Linux, Bash, Power BI, Microsoft Excel.
+**Platforms / Tools:** Supabase, Vercel, Git, Docker, Podman, Linux, Bash, Power BI, Microsoft Excel, NextAuth.
 
 ## GitHub activity
 
