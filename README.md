@@ -55,6 +55,28 @@ The table includes the other eight public repositories, including this profile R
 | [AI Study Planner](https://github.com/theprachurya/AI-Study-Planner) | Earlier Flask and SQLite study-planning app; its README describes Gemini-assisted plan generation. | Python | 2025-10-13 |
 | [Safar](https://github.com/theprachurya/safar) | Java concept for suggesting alternate stations when a train route is waitlisted; not a live booking service. | Java | 2024-11-12 |
 
+## GitHub activity
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=theprachurya&amp;theme=dark&amp;hide_border=true&amp;background=00000000&amp;ring=d7f36a&amp;fire=d7f36a" />
+    <img src="https://streak-stats.demolab.com/?user=theprachurya&amp;theme=default&amp;hide_border=true&amp;background=00000000&amp;ring=8fae46&amp;fire=8fae46" alt="GitHub contribution streak" width="58%" />
+  </picture></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=theprachurya&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=d7f36a&amp;text_color=c9d1d9&amp;icon_color=8fae46" />
+    <img src="https://github-readme-stats.vercel.app/api?username=theprachurya&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=17201b&amp;text_color=53665a&amp;icon_color=8fae46" alt="GitHub public activity statistics" width="49%" />
+  </picture></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=theprachurya&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=d7f36a&amp;text_color=c9d1d9" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprachurya&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=17201b&amp;text_color=53665a" alt="Language distribution across public repositories; not a proficiency ranking" width="49%" />
+  </picture></a>
+</p>
+
+<p align="center"><sub>Cards use public GitHub data and may update with a delay. Language share reflects code volume in public, non-fork repositories; it is not a proficiency ranking.</sub></p>
+
 ## Languages and frameworks represented
 
 These icons show technologies present in one or more public repositories. They are not a proficiency ranking.
